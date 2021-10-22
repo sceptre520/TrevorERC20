@@ -9,7 +9,7 @@ const ALCHEMY_API_KEY = "MC416XCJTt_vK-u2cdtLgzyzJR7mRlOy";
 // go to Account Details > Export Private Key
 // Be aware of NEVER putting real Ether into testing accounts
 const ROPSTEN_PRIVATE_KEY = "e25fb7af78f9d9de04ba4bf42fc4a6bfd54b6014ca1f1b8c6ed0ddb349837928";
-const LOCAL_PRIVATE_KEY = "f88665b8d112ae968777d7e306ec5949abcb4f1a844d1d3d00e0c4d15e7a42bf";
+const LOCAL_PRIVATE_KEY = "649925abc354c6098cd2f3915aa9951b8ddcb9c5ee236fbcf7b632b4df6f2d8a";
 // const LOCAL_PRIVATE_KEY = "33bfa8dd580ff502ebceff4e2e73a79167e771113023c136239b5915a538ac69";
 
 module.exports = {
